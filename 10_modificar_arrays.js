@@ -32,7 +32,7 @@ const tecnologia2 = tecnologia.filter(function(tech){//El fuction usado en esta 
 console.log(tecnologia2)
 
 //Map -usaremos para crear un nuevo arreglo copiando el original y modificarlo
-//Accede a un elemento-map itera y puedes modificar pero no mantiene elementos asi que hay que indicarle que luego que busque el elemento encontrado no borre a los demas
+//Accede a un elemento   - map itera y puedes modificar pero no mantiene elementos asi que hay que indicarle que luego que busque el elemento encontrado no borre a los demas
 const tecnologia3 = tecnologia.map(function(tech){
     //console.log(tech)
     if (tech === 'RUST'){

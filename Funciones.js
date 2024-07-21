@@ -15,3 +15,9 @@ export{
 sumar, restar
 } 
 */
+
+
+//export default- solo pueden haber uno por archivo y lo puedes nombrar como tu quieras
+export default function multiplicar(n1,n2){
+    return n1 * n2
+}

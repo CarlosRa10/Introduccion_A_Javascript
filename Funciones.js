@@ -5,7 +5,7 @@ export function sumar(n1,n2){
 }
 //Exportar codigo a Arroe function
 
-export const sumar = (n1,n2)=> n1 + n2
+//export const sumar = (n1,n2)=> n1 + n2
 
 
 
@@ -14,7 +14,7 @@ export function restar(n1,n2){
     return n1 - n2
 }
 //Exportar codigo a Arroe function
-export const restar=(n1,n2)=> n1 - n2
+//export const restar=(n1,n2)=> n1 - n2
 
 //Tambien puedes exportar de esta manera
 /*

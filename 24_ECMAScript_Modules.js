@@ -22,3 +22,4 @@ function restar(n1,n2){
 */
 const resultado_resta = restar(10,5)
 console.log(resultado_resta)
+
